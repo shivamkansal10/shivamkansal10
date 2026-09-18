@@ -56,7 +56,7 @@ Git · Linux · Docker (basics)
 
 ## 📚 Featured Projects
 
-### [FlashSeat](https://github.com/shivamkansal) — Distributed Ticket Booking System
+### [FlashSeat](https://flashbook-booking.netlify.app/) — Distributed Ticket Booking System
 A high-concurrency ticket reservation platform demonstrating scalable distributed system design.
 
 **Tech Stack:** Java, Spring Boot, Redis, PostgreSQL, Razorpay API  
@@ -66,7 +66,7 @@ A high-concurrency ticket reservation platform demonstrating scalable distribute
 - Circuit breaker pattern for external API resilience
 - Comprehensive transaction safety across microservices
 
-### [FindIt/RecoverX](https://github.com/shivamkansal) — Campus Lost & Found Platform
+### [RecoverX](https://campus-recoverx.netlify.app/) — Campus Lost & Found Platform
 Full-stack application connecting users to recover lost items across campus.
 
 **Tech Stack:** Java Spring Boot, React, Tailwind CSS, PostgreSQL  
@@ -87,14 +87,14 @@ Shri Govindram Seksaria Institute of Technology and Science (SGSITS), Indore
 
 ## 📊 GitHub Stats
 
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamkansal&show_icons=true&theme=default&count_private=true)
+![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamkansal10&show_icons=true&theme=default&count_private=true)
 
 ---
 
 ## 🔗 Connect
 
-**Email:** shivam.kansal@example.com  
-**LinkedIn:** [linkedin.com/in/shivamkansal](https://linkedin.com/in/shivamkansal)  
+**Email:** shivamkansal1000@example.com  
+**LinkedIn:** [linkedin.com/in/shivamkansal](https://www.linkedin.com/in/shivam-kansal-sgsitsindore/)  
 **Location:** Indore, Madhya Pradesh, India
 
 ---
