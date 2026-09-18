@@ -85,12 +85,6 @@ Shri Govindram Seksaria Institute of Technology and Science (SGSITS), Indore
 
 ---
 
-## 📊 GitHub Stats
-
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamkansal10&show_icons=true&theme=default&count_private=true)
-
----
-
 ## 🔗 Connect
 
 **Email:** shivamkansal1000@example.com  
