@@ -5,11 +5,18 @@
 I'm a pre-final-year Electronics & Communication Engineering student at SGSITS Indore, focused on designing robust backend systems and distributed architectures. Currently seeking SDE internship opportunities where I can contribute to production-grade systems.
 
 ---
-
-## 🎯 Current Focus
-
-Building performant backend services with Java and Spring Boot • Designing resilient distributed systems • Exploring cloud infrastructure patterns
-
+## 🚀 Current Venture
+ 
+### [Huntrify](https://huntrify.com) — Job & Talent Recruitment Platform
+**Full Stack Developer**
+ 
+Building a modern recruitment platform connecting job seekers with opportunities and helping companies discover top talent.
+ 
+**My Contributions:**
+- Architecture and development of scalable backend services
+- Full-stack implementation of core platform features
+- Database design and optimization for high-volume job/candidate matching
+- API development and integration with third-party recruitment tools
 ---
 
 ## 💼 Key Achievements
